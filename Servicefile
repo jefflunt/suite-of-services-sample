@@ -1,0 +1,9 @@
+type: product
+name: ed
+desc: ed platform
+services:
+  - edm 1.34.2
+  - cra 1.1.1
+  - crt 3.2.1
+  - bpm 2.1.1
+  - ed_portal 7.1.2
